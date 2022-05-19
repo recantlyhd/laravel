@@ -17,7 +17,7 @@ This project aims to be a simple To Do List, using Laravel/PHP as Backend and Vu
 - Display To Do Items sorted by title
 
 ## API-Calls
-api/v1/items/add
-api/v1/items/update
-api/v1/items/delete
-api/v1/items
+  - api/v1/items/add
+  - api/v1/items/update
+  - api/v1/items/delete
+  - api/v1/items
